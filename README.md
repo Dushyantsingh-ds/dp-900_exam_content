@@ -24,8 +24,8 @@ you will learn 40% new from every website
 
 ## I also followed this and got 800+ Marks
 
-![alt text](https://github.com/Dushyantsingh-ds/dp-900_Exam_content/blob/main/Assets/Microsoft_Certified_Professional_Certificate.png)
-![alt text](https://github.com/Dushyantsingh-ds/dp-900_Exam_content/blob/main/Assets/azure-data-fundamantls-badge.png)
+![alt text](https://github.com/Dushyantsingh-ds/dp-900_exam_content/blob/main/Assets/Microsoft_Certified_Professional_Certificate.png)
+![alt text](https://github.com/Dushyantsingh-ds/dp-900_exam_content/blob/main/Assets/azure-Data-fundamantls-badge.png)
 
 ## Note : All the Reverse & Rights owned by its writer, Author and Orgnization.
 THis is only for Educational Porpose and Any-one have any problem from my this Repos, so please infom me, i will remove that.
